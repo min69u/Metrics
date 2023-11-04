@@ -21,6 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
+          base_indepth: yes
           config_octicon: yes
           config_timezone: Asia/Jakarta
           plugin_achievements: yes
@@ -35,6 +36,7 @@ jobs:
           plugin_discussions: yes
           plugin_discussions_categories: yes
           plugin_followup: yes
+          plugin_followup_indepth: yes
           plugin_followup_sections: repositories
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -45,6 +47,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: programming
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
           plugin_languages_limit: 6
           plugin_languages_other: yes
           plugin_languages_recent_categories: programming
