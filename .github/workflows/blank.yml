@@ -24,7 +24,7 @@ jobs:
           base_indepth: yes
           config_octicon: yes
           config_timezone: Asia/Jakarta
-          plugin_anilist: no
+          plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 2
