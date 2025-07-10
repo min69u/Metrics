@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: SylviaOne
+          user: min69u
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
@@ -82,4 +82,4 @@ jobs:
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
           plugin_tweets_user: Sylvia0ne
-          plugin_tweets_limit: 1          
+          plugin_tweets_limit: 1 
