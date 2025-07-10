@@ -49,6 +49,8 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 15
@@ -84,5 +86,3 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: Sylvia0ne
           plugin_tweets_limit: 1
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved, skills, recent
