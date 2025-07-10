@@ -81,5 +81,5 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           plugin_tweets_attachments: yes
-          plugin_tweets_user: Sylvia0ne
+          plugin_tweets_user: min69u
           plugin_tweets_limit: 1 
