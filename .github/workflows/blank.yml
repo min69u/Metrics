@@ -84,3 +84,7 @@ jobs:
           plugin_tweets_attachments: yes
           plugin_tweets_user: Sylvia0ne
           plugin_tweets_limit: 1
+          plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugin_skyline_frames: 6
+          plugin_skyline_quality: 1
