@@ -72,6 +72,8 @@ jobs:
           plugin_music_provider: lastfm
           plugin_music_user: coudleRose
           plugin_people: yes
+          plugin_poopmap: yes
+          plugin_poopmap_token: ${{ secrets.POOPMAP_TOKEN }}
           plugin_people_identicons: yes
           plugin_fortune: yes
           plugin_people_limit: 0
